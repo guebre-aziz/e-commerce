@@ -1,2 +1,2 @@
 # e-commerce
-Angular simple e-commerce site
+Simple Angular e-commerce site
